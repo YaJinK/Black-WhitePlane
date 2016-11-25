@@ -28,4 +28,9 @@ Reward:
   The Blue S: increase Speed level. Make you faster!  Max level: Mabe 3? or 4? I forget it. hahaha...
     MY PRATTLE: ah.. Women will like this!
 <pre />
+
 # DO NOT laugh at my english, i am not good at it.
+# Preview:
+![image](https://raw.githubusercontent.com/YaJinK/Black-WhitePlane/master/preview/2.png)
+![image](https://raw.githubusercontent.com/YaJinK/Black-WhitePlane/master/preview/3.png)
+![image](https://raw.githubusercontent.com/YaJinK/Black-WhitePlane/master/preview/4.png)
