@@ -30,6 +30,7 @@ Reward:
 <pre />
 
 # DO NOT laugh at my english, i am not good at it.
+# Next game: Super Myrio.
 # Preview:
 ![image](https://raw.githubusercontent.com/YaJinK/Black-WhitePlane/master/preview/2.png)
 ![image](https://raw.githubusercontent.com/YaJinK/Black-WhitePlane/master/preview/3.png)
