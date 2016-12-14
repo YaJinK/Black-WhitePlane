@@ -26,7 +26,6 @@
     The Red P: update your fire level. Make your weapon wider, longer and stronger.  Max level: 5 
     The Blue S: increase Speed level. Make your plane faster!  Max level: Mabe 3? or 4? I forget it. hahaha...
       MY PRATTLE: ah..longer, wider and faster? Women will like this!
-## DO NOT laugh at my english, i am not good at it.
 ## Preview:
 ![image](https://raw.githubusercontent.com/YaJinK/Black-WhitePlane/master/preview/2.png)
 ![image](https://raw.githubusercontent.com/YaJinK/Black-WhitePlane/master/preview/3.png)
