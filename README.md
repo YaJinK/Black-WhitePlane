@@ -31,5 +31,5 @@
 ![image](https://raw.githubusercontent.com/YaJinK/Black-WhitePlane/master/preview/3.png)
 ![image](https://raw.githubusercontent.com/YaJinK/Black-WhitePlane/master/preview/4.png)
     
-aaabbbb
+aaa
 ## Next game: Super Myrio.
