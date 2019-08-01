@@ -1,4 +1,4 @@
-# Black-WhitePlane
+﻿# Black-WhitePlane
 ## Program Finished Date: 2016/6/23
  I made this little program to review my WINDOWS API knowlage, not for making a good game.<br />
  I just pushed many codes together, so this program looks mess.<br />
@@ -30,4 +30,5 @@
 ![image](https://raw.githubusercontent.com/YaJinK/Black-WhitePlane/master/preview/2.png)
 ![image](https://raw.githubusercontent.com/YaJinK/Black-WhitePlane/master/preview/3.png)
 ![image](https://raw.githubusercontent.com/YaJinK/Black-WhitePlane/master/preview/4.png)
+    
 ## Next game: Super Myrio.
